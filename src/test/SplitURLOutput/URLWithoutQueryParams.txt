@@ -1,0 +1,4 @@
+Protocol -> https
+Host -> google
+Domain -> com
+

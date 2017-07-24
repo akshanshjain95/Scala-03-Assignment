@@ -1,0 +1,5 @@
+Protocol -> https
+Host -> google
+Domain -> co.in
+Query Params -> Map(gfe_rd -> cr, name -> akshansh, work -> knoldus, language -> scala)
+

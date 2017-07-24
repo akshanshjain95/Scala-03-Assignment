@@ -1,0 +1,34 @@
+Protocol -> https
+Host -> google
+Domain -> co.in
+Query Params -> Map(gfe_rd -> cr, name -> akshansh, work -> knoldus, language -> scala)
+
+Protocol -> https
+Host -> google
+Domain -> co.in
+Query Params -> Map(channel -> fs, ei -> 5SlzWaqmFoa0vAT8g5LABA, oe -> utf-8, gfe_rd -> cr, q -> Link+Examples, client -> ubuntu, ie -> utf-8)
+
+Protocol -> https
+Host -> gtihub
+Domain -> com
+Query Params -> Map(akshansh -> good, lol -> justkidding)
+
+Protocol -> https
+Host -> akshansh
+Domain -> com
+Query Params -> Map(lol -> lol, kik -> kik)
+
+Protocol -> https
+Host -> kokla
+Domain -> com
+
+Protocol -> https
+Host -> google
+Domain -> com
+
+Invalid URL Address
+
+Invalid URL Address
+
+Invalid URL Address
+
